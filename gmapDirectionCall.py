@@ -32,7 +32,7 @@ from datetime import datetime
 import json
 
 
-gmaps = googlemaps.Client(key='AIzaSyCDpp8NnfzrHqGjLSSVwtQWrUeGPTsZntg')
+gmaps = googlemaps.Client(key='API KEY HERE ')
 
 # now = datetime.now()
 now = datetime.strptime('Aug 27 2019 7:33PM', '%b %d %Y %I:%M%p')
